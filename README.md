@@ -1,8 +1,8 @@
 # Memory Game Project
 
-##Memory Game is a complete browser-based card matching game (also known as Concentration). But this isn’t just any memory game! It’s a shnazzy, well-designed, feature-packed memory game!
+## Memory Game is a complete browser-based card matching game (also known as Concentration). But this isn’t just any memory game! It’s a shnazzy, well-designed, feature-packed memory game!
 
-###Game Rules
+### Game Rules
 
 The game board consists of sixteen "cards" arranged in a grid. The deck is made up of eight different pairs of cards, each with different symbols on one side. The cards are arranged randomly on the grid with the symbol face down. The gameplay rules are very simple: flip over two hidden cards at a time to locate the ones that match!
 
@@ -14,7 +14,7 @@ The game board consists of sixteen "cards" arranged in a grid. The deck is made 
 - If the cards do not match, both cards are flipped face down.
 - The game ends once all cards have been correctly matched.
 
-####Technical
+#### Technical
 ***This project consists of the following assets:***
 
 - index.html - contains the game's html structure.
